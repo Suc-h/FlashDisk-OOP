@@ -1,0 +1,10 @@
+G:\PRG\FlashDisk-OOP\FlashDisk-OOP\bin\Debug\FlashDisk-OOP.exe.config
+G:\PRG\FlashDisk-OOP\FlashDisk-OOP\bin\Debug\FlashDisk-OOP.exe
+G:\PRG\FlashDisk-OOP\FlashDisk-OOP\bin\Debug\FlashDisk-OOP.pdb
+G:\PRG\FlashDisk-OOP\FlashDisk-OOP\obj\Debug\FlashDisk-OOP.csprojAssemblyReference.cache
+G:\PRG\FlashDisk-OOP\FlashDisk-OOP\obj\Debug\FlashDisk_OOP.Form1.resources
+G:\PRG\FlashDisk-OOP\FlashDisk-OOP\obj\Debug\FlashDisk_OOP.Properties.Resources.resources
+G:\PRG\FlashDisk-OOP\FlashDisk-OOP\obj\Debug\FlashDisk-OOP.csproj.GenerateResource.cache
+G:\PRG\FlashDisk-OOP\FlashDisk-OOP\obj\Debug\FlashDisk-OOP.csproj.CoreCompileInputs.cache
+G:\PRG\FlashDisk-OOP\FlashDisk-OOP\obj\Debug\FlashDisk-OOP.exe
+G:\PRG\FlashDisk-OOP\FlashDisk-OOP\obj\Debug\FlashDisk-OOP.pdb
